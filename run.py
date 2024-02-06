@@ -85,7 +85,7 @@ if __name__ == "__main__":
 
 
     print("\nStep 8: Save the final CSV")
-    df.coalesce(1).write.mode("overwrite").option("header", "true").format("csv").save(output_path)
+    df_filtered.coalesce(1).write.mode("overwrite").option("header", "true").format("csv").save(output_path)
     print("Final result is loaded into the path :",output_path)
 
     # Stop the Spark session
