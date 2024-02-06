@@ -43,4 +43,7 @@
 - [x] 6. Calculated the distance of each earthquake from a reference location.
 - [x] 7. Visualized the geographical distribution of earthquakes.
 
+**Loom Video (Overview of Pyspark Application) :**
+[Watch Loom Video](https://www.loom.com/share/e8f00aadbf034636a49d6266c1eb6d62?sid=af48a391-a1ed-4d0d-9d36-320e5f31a26b)
+
 ### THANK YOU
